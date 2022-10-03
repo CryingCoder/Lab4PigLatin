@@ -1,0 +1,15 @@
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\bin\Debug\net6.0\Lab4 PigLatin.exe
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\bin\Debug\net6.0\Lab4 PigLatin.deps.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\bin\Debug\net6.0\Lab4 PigLatin.runtimeconfig.json
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\bin\Debug\net6.0\Lab4 PigLatin.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\bin\Debug\net6.0\Lab4 PigLatin.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.csproj.AssemblyReference.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.AssemblyInfoInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.AssemblyInfo.cs
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\refint\Lab4 PigLatin.dll
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.pdb
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\Lab4 PigLatin.genruntimeconfig.cache
+C:\Users\TCC\OneDrive\Desktop\C# September 2022\Lab4 PigLatin\obj\Debug\net6.0\ref\Lab4 PigLatin.dll
